@@ -17,6 +17,9 @@ docs/_build/
 # pyenv
 .python-version
 
+# Virtual envs
+venv/
+
 # Spyder project settings
 .spyderproject
 .spyproject
